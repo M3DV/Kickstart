@@ -35,8 +35,8 @@ Here, we provide [`a Pytorch template`](https://github.com/seanywang0408/templat
 Don't rush to dig into these advanced courses. These courses are more specific for certain topics. Only after you have several project experiences, these advanced courses help you build up a systematic sense of these topics.
 
 * **Yida Xu (UTS)'s Probabilities and Machine Learning** video link: [`Youtube`](https://www.youtube.com/channel/UConITmGn5PFr0hxTI2tWD4Q/feed) [`Bilibili`](https://www.bilibili.com/video/av12802062)
-* **Hung-yi Lee's GAN 2018** [`YouTube`](https://www.youtube.com/playlist?list=PLJV_el3uVTsMq6JEFPW35BCiOQTsoqwNw)
-* **Hung-yi Lee's Next Step of Machine Learning** [`YouTube`](https://www.youtube.com/playlist?list=PLJV_el3uVTsOK_ZK5L0Iv_EQoL1JefRL4)
+* **Hung-yi Lee (NTU)'s GAN 2018** [`YouTube`](https://www.youtube.com/playlist?list=PLJV_el3uVTsMq6JEFPW35BCiOQTsoqwNw)
+* **Hung-yi Lee (NTU)'s Next Step of Machine Learning** [`YouTube`](https://www.youtube.com/playlist?list=PLJV_el3uVTsOK_ZK5L0Iv_EQoL1JefRL4)
 * **CS 294-131: Trustworthy Deep Learning** [`Homepage`](https://berkeley-deep-learning.github.io/cs294-131-s19/)
 
 At this point, you have mastered the basic skill and knowledge required for *machine learning / deep learning / computer vision* research. But there are still so much unknown placed waiting for you to explore. What you learn here merely provides you with *the way leading to those places*. Begin you adventure now! And enjoy the beauty of maching learning!
@@ -46,5 +46,5 @@ At this point, you have mastered the basic skill and knowledge required for *mac
 * How to set up a brand new machine, from installing Linux to install Pytorch
   
 ## Thanks to
-[`Jiancheng Yang`](https://github.com/duducheng) who provide the primary study route and first start this project.
-[`Linguo Li`](https://github.com/LinguoLi) who provides the MNIST reference code.
+* [`Jiancheng Yang`](https://github.com/duducheng) who provide the primary study route and first start this project.
+* [`Linguo Li`](https://github.com/LinguoLi) who provides the MNIST reference code.
