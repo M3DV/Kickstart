@@ -7,7 +7,7 @@ These courses are suitable for reseachers in *machine learning / deep learning /
 
 These courses for beginners. It's suggested to follow the order below. Try to finish the coding and mathematics homework in each course. It helps a lot. 
 
-* **Andrew Ng (Standford)'s machine learning** [`Homepage`](https://www.coursera.org/learn/machine-learning) video link: [`Youtube`](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) [`Bilibili`](https://www.bilibili.com/video/av9912938?from=search&seid=15017482190596014618)
+* **Andrew Ng (Stanford)'s machine learning** [`Homepage`](https://www.coursera.org/learn/machine-learning) video link: [`Youtube`](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) [`Bilibili`](https://www.bilibili.com/video/av9912938?from=search&seid=15017482190596014618)
 
 * **Hsuan-Tien Lin (NTU)'s Machine Learning Foundations** [`Homepage`](https://www.csie.ntu.edu.tw/~htlin/course/mlfound18fall/) video link: [`Youtube`](https://www.youtube.com/playlist?list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf) [`Bilibili`](https://www.bilibili.com/video/av12463015?from=search&seid=2676600341812801404)
 * **Hsuan-Tien Lin (NTU)'s Machine Learning Techniques** [`Homepage`](https://www.csie.ntu.edu.tw/~htlin/course/mltech18spring/) video link: [`Youtube`](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2) [`Bilibili`](https://www.bilibili.com/video/av12469267?from=search&seid=2676600341812801404)
@@ -18,7 +18,7 @@ These courses for beginners. It's suggested to follow the order below. Try to fi
 After finishing the above courses, it's highly suggested to join some simple competitions before you keep going on [`Kaggle`](https://www.kaggle.com/), a well-known data science competition website. For beginners, the `Getting Started` category is the best place to obtain project experience and practice coding skills. The following two competitions are good options. 
 
 * [**`Titanic: Machine Learning from Disaster`**](https://www.kaggle.com/c/titanic) A classification task based on structured data.
-* [**`Digit Recognizer`**](https://www.kaggle.com/c/digit-recognizer) A classification task based on hand-written digit images. A convolutional neural network might be involved.
+* [**`Digit Recognizer`**](https://www.kaggle.com/c/digit-recognizer) A classification task based on hand-written digit images. A convolutional neural network might be involved. For this competition, we provide some [`reference code`](https://github.com/LinguoLi/mnist_tutorial) with different mahcine learning computing package.
 
 ## Intermediate
 
@@ -45,3 +45,6 @@ At this point, you have mastered the basic skill and knowledge required for *mac
 * How to use remote server
 * How to set up a brand new machine, from installing Linux to install Pytorch
   
+## Thanks to
+[`Jiancheng Yang`](https://github.com/duducheng) who provide the primary study route and first start this project.
+[`Linguo Li`](https://github.com/LinguoLi) who provides the MNIST reference code.
