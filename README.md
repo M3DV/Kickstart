@@ -38,6 +38,9 @@ Don't rush to dig into these advanced courses. These courses are more specific f
 * **Hung-yi Lee (NTU)'s GAN 2018** [`YouTube`](https://www.youtube.com/playlist?list=PLJV_el3uVTsMq6JEFPW35BCiOQTsoqwNw)
 * **Hung-yi Lee (NTU)'s Next Step of Machine Learning** [`YouTube`](https://www.youtube.com/playlist?list=PLJV_el3uVTsOK_ZK5L0Iv_EQoL1JefRL4)
 * **CS 294-131: Trustworthy Deep Learning** [`Homepage`](https://berkeley-deep-learning.github.io/cs294-131-s19/)
+* **CMU 10-708 PGM (19) by Eric Xing** ([website](https://sailinglab.github.io/pgm-spring-2019/))
+* **Berkely Deep RL Bootcamp** ([website](https://sites.google.com/view/deep-rl-bootcamp/lectures))
+* **CS294-158 Deep Unsupervised Learning Spring 2019** ([website](https://sites.google.com/view/berkeley-cs294-158-sp19/home))
 
 At this point, you have mastered the basic skill and knowledge required for *machine learning / deep learning / computer vision* research. But there are still so much unknown placed waiting for you to explore. What you learn here merely provides you with *the way leading to those places*. Begin you adventure now! And enjoy the beauty of maching learning!
 
@@ -50,8 +53,10 @@ At this point, you have mastered the basic skill and knowledge required for *mac
 
 Any advice or comments to improve this learning schedule is most welcomed.
 
-## Thanks to
+## Maintainer
+* [`Xiaoyang Huang`](https://github.com/seanywang0408)
 
+## Contributors
 * [`Jiancheng Yang`](https://github.com/duducheng) who provides the primary study route and first start this project.
 * [`Linguo Li`](https://github.com/LinguoLi) who provides the MNIST reference code and packages list.
 
