@@ -1,9 +1,9 @@
-## Study Route
+# Study Route
 
 These courses are suitable for reseachers in *machine learning / deep learning / computer vision*. Each course takes about *two weeks* to finish if you are fully dedicated to it. 
 
 
-### Beginner
+## Beginner
 
 These courses for beginners. It's suggested to follow the order below. Try to finish the coding and mathematics homework in each course. It helps a lot. 
 
@@ -20,7 +20,7 @@ After finishing the above courses, it's highly suggested to join some simple com
 * [**`Titanic: Machine Learning from Disaster`**](https://www.kaggle.com/c/titanic) A classification task based on structured data.
 * [**`Digit Recognizer`**](https://www.kaggle.com/c/digit-recognizer) A classification task based on hand-written digit images. A convolutional neural network might be involved.
 
-### Intermediate
+## Intermediate
 
 Now we need to expand our sight to the current research topics in *machine learning / deep learning / computer vision*. 
 
@@ -30,7 +30,7 @@ By far, you should be familiar with the basic concepts of *machine learning / de
 
 Here, we provide [`a Pytorch template`](https://github.com/seanywang0408/template) in python for developing a real project. 
 
-### Advanced
+## Advanced
 
 Don't rush to dig into these advanced courses. These courses are more specific for certain topics. Only after you have several project experiences, these advanced courses help you build up a systematic sense of these topics.
 
@@ -41,3 +41,7 @@ Don't rush to dig into these advanced courses. These courses are more specific f
 
 At this point, you have mastered the basic skill and knowledge required for *machine learning / deep learning / computer vision* research. But there are still so much unknown placed waiting for you to explore. What you learn here merely provides you with *the way leading to those places*. Begin you adventure now! And enjoy the beauty of maching learning!
 
+##TODO
+* How to use remote server
+* How to set up a brand new machine, from installing Linux to install Pytorch
+  
