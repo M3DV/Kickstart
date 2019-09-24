@@ -45,6 +45,8 @@ At this point, you have mastered the basic skill and knowledge required for *mac
 
 * How to use remote server
 * How to set up a brand new machine, from installing Linux to installing Pytorch （[`Here is a rough instruction in Chinese`](./简陋版装机指导.docx)) ([`Here is the packages list required to set up a system for maching learning research`](./packages-for-a-ML-system-with-links))
+* Advanced coding courses
+* Papers reading and writing
 
 Any advice or comments to improve this learning schedule is most welcomed.
 
