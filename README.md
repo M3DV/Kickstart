@@ -15,7 +15,7 @@ These courses are for beginners. It's suggested to follow the order below. Try t
 * **Feifei Li (Stanford)'s Computer Vision (CS231n)** [`Homepage`](http://cs231n.stanford.edu/) video link: [`Youtube`](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
 ) [`Bilibili`](https://www.bilibili.com/video/av13260183?from=search&seid=14364502991437979266)
 
-After finishing the above courses, it's highly suggested to join some simple competitions before you keep going on [`Kaggle`](https://www.kaggle.com/), a well-known data science competition website. For beginners, the `Getting Started` category is the best place to obtain project experience and practice coding skills. The following two competitions are good options. 
+After finishing the above courses, it's highly suggested to join some simple competitions before you keep going on [`Kaggle`](https://www.kaggle.com/), a well-known data science competition website. You can refer to others' code for inspiration. Free GPU resources are also available on Kaggle. For beginners, the `Getting Started` category is the best place to obtain project experience and practice coding skills. The following two competitions are good options. 
 
 * [**`Titanic: Machine Learning from Disaster`**](https://www.kaggle.com/c/titanic) A classification task based on structured data.
 * [**`Digit Recognizer`**](https://www.kaggle.com/c/digit-recognizer) A classification task based on hand-written digit images. A convolutional neural network might be involved. For this competition, we provide some [`reference code`](https://github.com/LinguoLi/mnist_tutorial) with different mahcine learning computing package.
@@ -26,7 +26,7 @@ Now we need to expand our sight to the current research topics in *machine learn
 
 * **Hung-yi Lee (NTU)'s Deep Learning** [`Homepage`](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html) video link: [`Youtube`](https://www.youtube.com/playlist?list=PLJV_el3uVTsPMxPbjeX7PicgWbY7F8wW9) [`Bilibili`](https://www.bilibili.com/video/av9770302/)
 
-By far, you should be familiar with the basic concepts of *machine learning / deep learning / computer vision*. You might need to participate in a real project in a school lab (choose a reputed lab carefully) or in a IT company. You may also consider join a more advanced competition on [`Kaggle`](https://www.kaggle.com/). 
+By far, you should be familiar with the basic concepts of *machine learning / deep learning / computer vision*. You might need to participate in a real project in a lab at school (choose a reputed lab carefully) or in a IT company. You may also consider join a more advanced competition on [`Kaggle`](https://www.kaggle.com/). 
 
 Here, we provide a [**`Pytorch coding template`**](https://github.com/seanywang0408/template) in python for developing a real project. 
 
