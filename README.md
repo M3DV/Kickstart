@@ -32,7 +32,7 @@ Here, we provide a [**`Pytorch coding template`**](https://github.com/seanywang0
 
 ## Advanced
 
-Don't rush to dig into these advanced courses. These courses are more specific for certain topics. Only after you have several project experiences, these advanced courses help you build up a systematic sense of these topics.
+Don't rush to dig into these advanced courses. These courses are more specific for certain topics. Only after you have several project experiences, can these advanced courses help you build up a systematic sense of these topics.
 
 * **Yida Xu (UTS)'s Probabilities and Machine Learning** video link: [`Youtube`](https://www.youtube.com/channel/UConITmGn5PFr0hxTI2tWD4Q/feed) [`Bilibili`](https://www.bilibili.com/video/av12802062)
 * **Hung-yi Lee (NTU)'s GAN 2018** [`YouTube`](https://www.youtube.com/playlist?list=PLJV_el3uVTsMq6JEFPW35BCiOQTsoqwNw)
