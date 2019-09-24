@@ -28,7 +28,7 @@ Now we need to expand our sight to the current research topics in *machine learn
 
 By far, you should be familiar with the basic concepts of *machine learning / deep learning / computer vision*. You might need to participate in a real project in a lab at school (choose a reputed lab carefully) or in a IT company. You may also consider join a more advanced competition on [`Kaggle`](https://www.kaggle.com/). 
 
-Here, we provide a [**`Pytorch coding template`**](https://github.com/seanywang0408/template) in python for developing a real project. 
+Here, we provide a [**`Pytorch coding template`**](https://github.com/seanywang0408/Pytorch-Template) in python for developing a real project. 
 
 ## Advanced
 
@@ -41,6 +41,9 @@ Don't rush to dig into these advanced courses. These courses are more specific f
 * **CMU 10-708 PGM (19) by Eric Xing** [`Homepage`](https://sailinglab.github.io/pgm-spring-2019/)
 * **Berkely Deep RL Bootcamp** [`Homepage`](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 * **CS294-158 Deep Unsupervised Learning Spring 2019** [`Homepage`](https://sites.google.com/view/berkeley-cs294-158-sp19/home)
+* **Udacity's Cuda** ([`Homepage`](https://classroom.udacity.com/courses/cs344))
+* **Cousera's Programming Language** [`Homepage`](https://www.coursera.org/learn/programming-languages)
+* **Udacity's Design of Computer Programs** [`Homepage`](https://classroom.udacity.com/courses/cs212/lessons/48688918/concepts/482769590923)
 
 At this point, you have mastered the basic skill and knowledge required for *machine learning / deep learning / computer vision* research. But there are still so much unknown placed waiting for you to explore. What you learn here merely provides you with *the way leading to those places*. Begin you adventure now! And enjoy the beauty of maching learning!
 
