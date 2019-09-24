@@ -28,7 +28,7 @@ Now we need to expand our sight to the current research topics in *machine learn
 
 By far, you should be familiar with the basic concepts of *machine learning / deep learning / computer vision*. You might need to participate in a real project in a lab at school (choose a reputed lab carefully) or in a IT company. You may also consider join a more advanced competition on [`Kaggle`](https://www.kaggle.com/). 
 
-Here, we provide a [**`Pytorch coding template`**](https://github.com/seanywang0408/Pytorch-Template) in python for developing a real project. 
+Here, we provide a [**`PyTorch coding template`**](https://github.com/seanywang0408/PyTorch-Template) in python for developing a real project. 
 
 ## Advanced
 
