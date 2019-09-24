@@ -1,13 +1,13 @@
-# Study Route
+# Learning schedule
 
-These courses are suitable for reseachers in *machine learning / deep learning / computer vision*. Each course takes about *two weeks* to finish if you are fully dedicated to it. 
+This learning schedule is sorted out for *reseachers* or *whoever interested in machine learning / deep learning / computer vision*. It's also most welcomed for *instructors* to refer to this schedule to train beginner students. Each course listed below takes about *two weeks* to finish if you are fully dedicated to it. 
 
 
 ## Beginner
 
-These courses for beginners. It's suggested to follow the order below. Try to finish the coding and mathematics homework in each course. It helps a lot. 
+These courses are for beginners. It's suggested to follow the order below. Try to finish the coding and mathematics homework in each course. It helps a lot. 
 
-* **Andrew Ng (Stanford)'s machine learning** [`Homepage`](https://www.coursera.org/learn/machine-learning) video link: [`Youtube`](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) [`Bilibili`](https://www.bilibili.com/video/av9912938?from=search&seid=15017482190596014618)
+* **Andrew Ng (Stanford)'s Machine Learning** [`Homepage`](https://www.coursera.org/learn/machine-learning) video link: [`Youtube`](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) [`Bilibili`](https://www.bilibili.com/video/av9912938?from=search&seid=15017482190596014618)
 
 * **Hsuan-Tien Lin (NTU)'s Machine Learning Foundations** [`Homepage`](https://www.csie.ntu.edu.tw/~htlin/course/mlfound18fall/) video link: [`Youtube`](https://www.youtube.com/playlist?list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf) [`Bilibili`](https://www.bilibili.com/video/av12463015?from=search&seid=2676600341812801404)
 * **Hsuan-Tien Lin (NTU)'s Machine Learning Techniques** [`Homepage`](https://www.csie.ntu.edu.tw/~htlin/course/mltech18spring/) video link: [`Youtube`](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2) [`Bilibili`](https://www.bilibili.com/video/av12469267?from=search&seid=2676600341812801404)
@@ -28,7 +28,7 @@ Now we need to expand our sight to the current research topics in *machine learn
 
 By far, you should be familiar with the basic concepts of *machine learning / deep learning / computer vision*. You might need to participate in a real project in a school lab (choose a reputed lab carefully) or in a IT company. You may also consider join a more advanced competition on [`Kaggle`](https://www.kaggle.com/). 
 
-Here, we provide [`a Pytorch template`](https://github.com/seanywang0408/template) in python for developing a real project. 
+Here, we provide a [**`Pytorch coding template`**](https://github.com/seanywang0408/template) in python for developing a real project. 
 
 ## Advanced
 
@@ -44,8 +44,10 @@ At this point, you have mastered the basic skill and knowledge required for *mac
 ## TODO
 
 * How to use remote server
-* How to set up a brand new machine, from installing Linux to install Pytorch
-  
+* How to set up a brand new machine, from installing Linux to installing Pytorch （[`Here is a rough instruction in Chinese`](./简陋版装机指导.docx))
+
+Any advice or comments to improve this learning schedule is most welcomed.
+
 ## Thanks to
 
 * [`Jiancheng Yang`](https://github.com/duducheng) who provides the primary study route and first start this project.
