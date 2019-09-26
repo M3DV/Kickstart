@@ -2,6 +2,15 @@
 
 This learning schedule is sorted out for *reseachers* or *whoever interested in machine learning / deep learning / computer vision*. It's also most welcomed for *instructors* to refer to this schedule to train beginner students. Each course listed below takes about *two weeks* to finish if you are fully dedicated to it. 
 
+## Introduction
+
+The skills you need to develop a *machine learning / deep learning / computer vision* project include: 
+
+* **Coding skills**. Coding is not the objective, but the tool. Without the tool, nothing can be built.
+* **Mathematics**. Math is the foundation of machine learning that you can't evade, among which statistics and probability are the most important.
+* **Machine learning algorithms**, which is the focus of most research or competitions.
+* **Paper reading and writing**, which involves English proficiency and professionalisim. You may not necesssarily publish a paper on a journal or a conference. However, to keep up with others' work and report your work, you have to be familiar with how to read and write a paper.
+
 
 ## Beginner
 
@@ -47,6 +56,7 @@ At this point, you have mastered the basic skill and knowledge required for *mac
 * How to set up a brand new machine, from installing Linux to installing Pytorch （[`Here is a rough instruction in Chinese`](./简陋版装机指导.docx)) ([`Here is the packages list required to set up a system for machine learning research`](./packages-for-a-ML-system-with-links))
 * Advanced coding courses
 * Papers reading and writing
+* Code convention
 
 Any advice or comments to improve this learning schedule is most welcomed.
 
