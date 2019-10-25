@@ -55,6 +55,10 @@ Don't rush to dig into these advanced courses. These courses are more specific f
 * **Udacity's Design of Computer Programs** [`Homepage`](https://classroom.udacity.com/courses/cs212/lessons/48688918/concepts/482769590923)
 
 At this point, you have mastered the basic skill and knowledge required for *machine learning / deep learning / computer vision* research. But there are still so much unknown placed waiting for you to explore. What you learn here merely provides you with *the way leading to those places*. Begin you adventure now! And enjoy the beauty of maching learning!
+Ads
+
+## Tools
+* git ([best tutorial I've read in Chinese](https://gitbook.tw/), haven't found a counterpart in English)
 
 ## TODO
 
