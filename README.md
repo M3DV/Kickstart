@@ -55,11 +55,15 @@ Don't rush to dig into these advanced courses. These courses are more specific f
 * **Udacity's Design of Computer Programs** [`Homepage`](https://classroom.udacity.com/courses/cs212/lessons/48688918/concepts/482769590923)
 
 At this point, you have mastered the basic skill and knowledge required for *machine learning / deep learning / computer vision* research. But there are still so much unknown placed waiting for you to explore. What you learn here merely provides you with *the way leading to those places*. Begin you adventure now! And enjoy the beauty of maching learning!
+Ads
+
+## Tools
+* git ([best tutorial I've read in Chinese](https://gitbook.tw/), haven't found a counterpart in English)
 
 ## TODO
 
 * How to use remote server
-* How to set up a brand new machine, from installing Linux to installing Pytorch （[`Here is a rough instruction in Chinese`](./简陋版装机指导.docx)) ([`Here is the packages list required to set up a system for machine learning research`](./packages-for-a-ML-system-with-links))
+* How to set up a brand new machine, from installing Linux to installing Pytorch （[`Here is a rough instruction in Chinese`](./简陋版装机指导.md)) ([`Here is the packages list required to set up a system for machine learning research`](./packages-for-a-ML-system-with-links))
 * Advanced coding courses
 * Papers reading and writing
 * Code convention
