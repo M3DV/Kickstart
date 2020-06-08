@@ -6,7 +6,7 @@ This learning schedule is sorted out for *reseachers* or *whoever interested in 
 
 The skills you need to develop a *machine learning / deep learning / computer vision* project include: 
 
-* **Coding skills**. Coding is not the objective, but the tool. Without the tool, nothing can be built.
+* **Coding skills**. Coding is not the objective, but the tool. Without the tool, nothing can be built. 
 * **Mathematics**. Math is the foundation of machine learning that you can't evade, among which statistics and probability are the most important.
 * **Machine learning algorithms**, which is the focus of most research or competitions.
 * **Paper reading and writing**, which involves English proficiency and professionalisim. You may not necesssarily publish a paper on a journal or a conference. However, to keep up with others' work and report your work, you have to be familiar with how to read and write a paper.
@@ -30,6 +30,10 @@ After finishing the above courses, it's highly suggested to join some simple com
 * [**`Digit Recognizer`**](https://www.kaggle.com/c/digit-recognizer) A classification task based on hand-written digit images. A convolutional neural network might be involved. For this competition, we provide some [`reference code`](https://github.com/LinguoLi/mnist_tutorial) with different mahcine learning computing package.
 * [**`Titanic: Machine Learning from Disaster`**](https://www.kaggle.com/c/titanic) A classification task based on structured data.
 
+We recommend ML freshman should know the following packages:
+* scipy-family (numpy, scipy, pandas, matplotlib, etc.)
+* scikit-learn (for out-of-box ML tools, models, metrics, etc.)
+* one of deep learning packages: PyTorch or Keras (other DL packages are recommended for beginners!)
 
 ## Intermediate
 
