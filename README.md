@@ -14,24 +14,30 @@ The skills you need to develop a *machine learning / deep learning / computer vi
 
 ## Beginner
 
-These courses are for beginners. It's suggested to follow the order below. Try to finish the coding and mathematics homework in each course. It helps a lot. 
+These courses are for beginners. It's suggested to follow the order below. Try to finish the coding and mathematics homework in each course. Everyone should have covered the following staffs before your REAL journey to machine learning. It does not mean you have to take the following courses, we recommend you to do so; but if you are not totally fresh, you should know the contents.
 
 * **Andrew Ng (Stanford)'s Machine Learning** [`Homepage`](https://www.coursera.org/learn/machine-learning) video link: [`Youtube`](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) [`Bilibili`](https://www.bilibili.com/video/av9912938?from=search&seid=15017482190596014618)
 
-* **Hsuan-Tien Lin (NTU)'s Machine Learning Foundations** [`Homepage`](https://www.csie.ntu.edu.tw/~htlin/course/mlfound18fall/) video link: [`Youtube`](https://www.youtube.com/playlist?list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf) [`Bilibili`](https://www.bilibili.com/video/av12463015?from=search&seid=2676600341812801404)
-* **Hsuan-Tien Lin (NTU)'s Machine Learning Techniques** [`Homepage`](https://www.csie.ntu.edu.tw/~htlin/course/mltech18spring/) video link: [`Youtube`](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2) [`Bilibili`](https://www.bilibili.com/video/av12469267?from=search&seid=2676600341812801404)
+Quick intro to machine learning, no math but a very good overview about what ML is and what ML does. We recommend approx. 2 weeks for study. The MATLAB assignments are not longer recommended.
 
 * **Feifei Li (Stanford)'s Computer Vision (CS231n)** [`Homepage`](http://cs231n.stanford.edu/) video link: [`Youtube`](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
 ) [`Bilibili`](https://www.bilibili.com/video/av13260183?from=search&seid=14364502991437979266)
 
-After finishing the above courses, it's highly suggested to join some simple competitions before you keep going on [`Kaggle`](https://www.kaggle.com/), a well-known data science competition website. You can refer to others' code for inspiration. Free GPU resources are also available on Kaggle. For beginners, the `Getting Started` category is the best place to obtain project experience and practice coding skills. The following two competitions are good options. 
+Quick intro to deep learning, with emphasis on computer vision. You could do some interesting staffs after taking this course (and code practice!), e.g., face recognition, pedestrian detection and segmentation, medical image diagnosis, image generation. 
 
-* [**`Titanic: Machine Learning from Disaster`**](https://www.kaggle.com/c/titanic) A classification task based on structured data.
+After finishing the above courses, it's highly suggested to join some simple competitions before you keep going on [`Kaggle`](https://www.kaggle.com/), a well-known data science competition website. You can refer to others' code for inspiration. Free GPU resources are also available on Kaggle. For beginners, the `Getting Started` category is the best place to obtain project experience and practice coding skills. The following two competitions are good basic options. 
+
 * [**`Digit Recognizer`**](https://www.kaggle.com/c/digit-recognizer) A classification task based on hand-written digit images. A convolutional neural network might be involved. For this competition, we provide some [`reference code`](https://github.com/LinguoLi/mnist_tutorial) with different mahcine learning computing package.
+* [**`Titanic: Machine Learning from Disaster`**](https://www.kaggle.com/c/titanic) A classification task based on structured data.
+
 
 ## Intermediate
 
 Now we need to expand our sight to the current research topics in *machine learning / deep learning / computer vision*. 
+
+
+* **Hsuan-Tien Lin (NTU)'s Machine Learning Foundations** [`Homepage`](https://www.csie.ntu.edu.tw/~htlin/course/mlfound18fall/) video link: [`Youtube`](https://www.youtube.com/playlist?list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf) [`Bilibili`](https://www.bilibili.com/video/av12463015?from=search&seid=2676600341812801404)
+* **Hsuan-Tien Lin (NTU)'s Machine Learning Techniques** [`Homepage`](https://www.csie.ntu.edu.tw/~htlin/course/mltech18spring/) video link: [`Youtube`](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2) [`Bilibili`](https://www.bilibili.com/video/av12469267?from=search&seid=2676600341812801404)
 
 * **Hung-yi Lee (NTU)'s Deep Learning** [`Homepage`](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html) video link: [`Youtube`](https://www.youtube.com/playlist?list=PLJV_el3uVTsPMxPbjeX7PicgWbY7F8wW9) [`Bilibili`](https://www.bilibili.com/video/av9770302/)
 
